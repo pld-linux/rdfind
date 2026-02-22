@@ -1,12 +1,12 @@
 Summary:	Redundant Data Find - tool for finding duplicate files
 Summary(pl.UTF-8):	Narzędzie do wyszukiwania duplikatów plików
 Name:		rdfind
-Version:	1.7.0
+Version:	1.8.0
 Release:	1
 License:	GPL v2+
 Group:		Applications/File
 Source0:	https://rdfind.pauldreik.se/%{name}-%{version}.tar.gz
-# Source0-md5:	78f6e067ac5aa2c6ab5cf54bdf58777d
+# Source0-md5:	1650dd2f24a2b0a14a0417fca9e426d8
 URL:		https://rdfind.pauldreik.se/
 BuildRequires:	libstdc++-devel >= 6:4.7
 BuildRequires:	nettle-devel
